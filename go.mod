@@ -9,7 +9,7 @@ require (
 	github.com/d4l3k/go-bfloat16 v0.0.0-20211005043715-690c3bdd05f1
 	github.com/emirpasic/gods v1.18.1
 	github.com/gin-gonic/gin v1.9.1
-	github.com/golang/protobuf v1.5.0
+	github.com/golang/protobuf v1.5.0 // indirect
 	github.com/google/uuid v1.0.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/olekukonko/tablewriter v0.0.5
@@ -69,6 +69,6 @@ require (
 	golang.org/x/sys v0.13.0
 	golang.org/x/term v0.13.0
 	golang.org/x/text v0.13.0 // indirect
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
